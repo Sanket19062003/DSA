@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanket19062003/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

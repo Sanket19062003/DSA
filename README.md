@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sanket19062003/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sanket19062003/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Sanket19062003/DSA/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Sanket19062003/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

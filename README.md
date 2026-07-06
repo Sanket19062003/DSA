@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sanket19062003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanket19062003/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
 ## Binary Search
@@ -60,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sanket19062003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanket19062003/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanket19062003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanket19062003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sanket19062003/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sanket19062003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sanket19062003/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

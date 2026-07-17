@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sanket19062003/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sanket19062003/DSA/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket19062003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanket19062003/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

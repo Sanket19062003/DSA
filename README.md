@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sanket19062003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Sanket19062003/DSA/tree/master/0152-maximum-product-subarray) |
 ## Backtracking
 |  |
 | ------- |

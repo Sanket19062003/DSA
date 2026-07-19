@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanket19062003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sanket19062003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Number Theory
 |  |
 | ------- |

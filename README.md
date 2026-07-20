@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
+| [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanket19062003/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket19062003/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sanket19062003/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->

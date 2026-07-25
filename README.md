@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket19062003/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanket19062003/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanket19062003/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanket19062003/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanket19062003/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |

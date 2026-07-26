@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sanket19062003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
 | [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanket19062003/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket19062003/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanket19062003/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sanket19062003/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sanket19062003/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |

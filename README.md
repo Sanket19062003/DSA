@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
+| [3310-remove-methods-from-project](https://github.com/Sanket19062003/DSA/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sanket19062003/DSA/tree/master/0148-sort-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Sanket19062003/DSA/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Sanket19062003/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

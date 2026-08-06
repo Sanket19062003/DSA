@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanket19062003/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Sanket19062003/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Sanket19062003/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sanket19062003/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sanket19062003/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sanket19062003/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Sanket19062003/DSA/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sanket19062003/DSA/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Sanket19062003/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sanket19062003/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sanket19062003/DSA/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sanket19062003/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Sanket19062003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sanket19062003/DSA/tree/master/0136-single-number) |

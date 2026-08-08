@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Sanket19062003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Sanket19062003/DSA/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanket19062003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sanket19062003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sanket19062003/DSA/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanket19062003/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sanket19062003/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Number Theory
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sanket19062003/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sanket19062003/DSA/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket19062003/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanket19062003/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

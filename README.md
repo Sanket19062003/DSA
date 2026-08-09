@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Sanket19062003/DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket19062003/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |

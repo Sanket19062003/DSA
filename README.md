@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanket19062003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sanket19062003/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sanket19062003/DSA/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
@@ -209,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sanket19062003/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -240,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->

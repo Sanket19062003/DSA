@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sanket19062003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sanket19062003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanket19062003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Sanket19062003/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanket19062003/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sanket19062003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Sanket19062003/DSA/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Sanket19062003/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanket19062003/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanket19062003/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket19062003/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Sanket19062003/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sanket19062003/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sanket19062003/DSA/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/Sanket19062003/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sanket19062003/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sanket19062003/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
+| [1386-cinema-seat-allocation](https://github.com/Sanket19062003/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Sanket19062003/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory

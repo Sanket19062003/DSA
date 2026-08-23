@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanket19062003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Sanket19062003/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sanket19062003/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sanket19062003/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanket19062003/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Sanket19062003/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sanket19062003/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sanket19062003/DSA/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sanket19062003/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Sanket19062003/DSA/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Sanket19062003/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Sanket19062003/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sanket19062003/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanket19062003/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sanket19062003/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanket19062003/DSA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Sanket19062003/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sanket19062003/DSA/tree/master/2029-stone-game-ix) |
 ## Merge Sort
 |  |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sanket19062003/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanket19062003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Sanket19062003/DSA/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/Sanket19062003/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Sanket19062003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sanket19062003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sanket19062003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sanket19062003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sanket19062003/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sanket19062003/DSA/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Sanket19062003/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Sanket19062003/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanket19062003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sanket19062003/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Sanket19062003/DSA/tree/master/0127-word-ladder) |
 | [3310-remove-methods-from-project](https://github.com/Sanket19062003/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sanket19062003/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Sanket19062003/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
